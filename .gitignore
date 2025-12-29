@@ -27,3 +27,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Data
+backend/scraper/*.json
