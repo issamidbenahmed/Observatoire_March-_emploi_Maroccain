@@ -1,0 +1,12 @@
+flask
+flask-sqlalchemy
+flask-cors
+pymysql
+playwright
+playwright-stealth
+fake-useragent
+python-dotenv
+Flask-APScheduler
+pandas
+numpy
+regex

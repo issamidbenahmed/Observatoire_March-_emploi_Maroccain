@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+jspm_packages/
+venv/
+env/
+.env
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
